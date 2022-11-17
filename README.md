@@ -4,5 +4,7 @@ Natural Disasters Intensity Analysis and Classification using Artificial Intelli
 Team Lead-Prasanth Bharathi A
 
 Team Members-Rajakumaran S
+
              Prakashraj S
+             
              Logesh J
